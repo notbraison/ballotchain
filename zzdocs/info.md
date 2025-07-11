@@ -14,7 +14,6 @@ This system allows individuals and DAOs to host elections where votes are:
 ## 🎯 Tracks Considered
 
 - ✅ **Primary Track:** Fully On-Chain – Pure Decentralization
-- 🟡 **Secondary Track (optional):** Open Track – Unlimited Innovation
 
 Rationale: The voting system is fully decentralized with on-chain data and logic. If the ZK components evolve into reusable infrastructure, the Open Track may be more appropriate.
 
@@ -45,7 +44,7 @@ Rationale: The voting system is fully decentralized with on-chain data and logic
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ proposed Tech Stack
 
 | Component         | Tool / Language                  | Purpose                                                           |
 |------------------|----------------------------------|-------------------------------------------------------------------|
@@ -112,14 +111,6 @@ Rationale: The voting system is fully decentralized with on-chain data and logic
 - Tornado Cash anonymity set design
 - ZK-rollup voting experiments
 - Gitcoin's ZK identity proof-of-humanity
-
----
-
-## ✉️ Next Steps
-
-✅ **Set up project scaffold** → frontend, backend, Circom, and test voting contract.  
-✅ **Create GitHub repo and initialize `dfx.json`** for canister deployment.  
-✅ **Join Discord & choose HUB** (or Global) for support and updates.
 
 ---
 
